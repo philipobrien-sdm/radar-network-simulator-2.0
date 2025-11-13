@@ -1,0 +1,5 @@
+{
+  "name": "pure radar sim",
+  "description": "An interactive map simulating radar and ADS-B coverage over Europe. The simulation visualizes airspace coverage based on sensor placement at major airports and allows users to add new sensors to improve network resilience.",
+  "requestFramePermissions": []
+}
